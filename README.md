@@ -7,7 +7,7 @@
 
 > ✨ *"I don't just write code — I craft experiences. Every pixel, every click, every line of logic... it matters."*
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250"/>
 
 </div>
 
@@ -15,11 +15,11 @@
 
 ## 🧠 Who Am I?
 
-- 🔭 **I’m currently working on:** Learning advanced frontend patterns and modern UI libraries  
-- 👯 **I’m looking to collaborate on:** Hackathons or building community-driven tools  
-- 🤝 **I’m looking for help with:** Code reviews and writing cleaner, more maintainable tests  
-- 🌱 **I’m currently learning:** ** R and Python** for data science and logic  
-- 💬 **Ask me about:** How I taught myself to code or my favorite tech podcasts  
+- 🔭 Currently working on frontend + open-source projects  
+- 👯 Looking to collaborate on hackathons & real-world tools  
+- 🌱 Learning R, Python & Data Science  
+- 💬 Ask me about coding journey or UI building  
+- ⚡ Fun fact: I love turning ideas into interactive experiences  
 
 ---
 
@@ -28,53 +28,52 @@
 ### 🌐 Languages & Cloud
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,js,python,r,aws,vercel" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
 ---
 
-### 💻 Frontend & Frameworks
+### 💻 Frontend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,next,html,css,angular,vue,vite,bootstrap" />
-<br/>
-<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js"/>
-<img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge"/>
 </p>
 
 ---
 
-### ⚙️ Backend & AI/Data
+### ⚙️ Backend & AI
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi" />
-<br/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,mongodb" />
 </p>
 
 ---
 
-### 🎨 Design & Creative
+### 🎨 Design Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma" />
-<br/>
-<img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
-<img src="https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge&logo=adobe"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator"/>
-<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom"/>
-<img src="https://img.shields.io/badge/Fonts-000B1D?style=for-the-badge&logo=adobe"/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://commitpulse.vercel.app/api/streak?user=robot1508&bg=0d1117&accent=a855f7&v=1&scale=log"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robot1508&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 📊 GitHub Stats (Classic)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=robot1508&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=robot1508&theme=radical&hide_border=true&show_icons=true&count_private=true" />
 
 <img src="https://streak-stats.demolab.com/?user=robot1508&theme=radical&hide_border=true" />
 
@@ -83,33 +82,16 @@
 </div>
 
 ---
-
-<!-- <img src="https://ghchart.rshah.org/ff4dff/robot1508" /> -->
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=robot1508&theme=tokyo-night&hide_border=true&line=ff4dff&color=ff4dff" /> -->
-
-<!-- <img src="https://ghchart.rshah.org/ff0000/robot1508" /> -->
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=robot1508&theme=react-dark&hide_border=true"/> -->
-
-<!-- <div align="center"> -->
-
 ## 🔗 Connect With Me
 
+<p align="center">
 <a href="https://www.linkedin.com/in/arya-kumbhar-764891308">
 <img src="https://img.shields.io/badge/LinkedIn-FF61F6?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
+</p>
 
 ---
-
-## ⚡ Fun Fact
-
-💡 *Half code, half creativity — fully obsessed with building.*
-
----
-
 ## ✨ Built with Passion ✨
+<!-- <br><br> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61F6,100:6A5ACD&height=120&section=footer"/>
-
-</div>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61F6,30:6A5ACD,60:00D4FF,100:FF61F6&height=200&section=footer&animation=twinkling" /> -->
