@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=FF61F6&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Arya!;Open+Source+Contributor;UI%2FUX+Enthusiast;Tech+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=FF61F6&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Arya!;Open+Source+Contributor;Aspiring+Data+Analyst;Tech+Explorer" />
 
 ---
 
