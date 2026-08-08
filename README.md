@@ -91,7 +91,6 @@
 ##  contribution graph
 ## 📈 Contribution Activity
 <div align="center">
-<h3><code>robot1508@github ~ $ ./contributions.sh</code></h3>
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=robot1508&theme=cyberpunk&style=terminal&mode=light" />
 <img src="https://www.gitskins.com/api/section/heatmap?username=robot1508&theme=cyberpunk&style=terminal&mode=dark" width="100%" alt="robot1508 heatmap" />
