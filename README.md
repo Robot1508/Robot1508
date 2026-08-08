@@ -110,12 +110,5 @@
 
 ---
 
-## ⚡ Fun Fact
-
-💡 *Half code, half creativity — fully obsessed with building.*
-
----
 
 ## ✨ Built with Passion ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61F6,100:6A5ACD&height=120&section=footer"/>
