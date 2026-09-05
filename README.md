@@ -81,12 +81,42 @@
 ---
 
 ## 📈 Contribution Activity
+<details>
+<summary>GitHub Readme Stats</summary>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robot1508&theme=tokyo-night&hide_border=true" />
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=robot1508&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="robot1508's GitHub stats" />
+  </a>
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robot1508&layout=compact&langs_count=20&theme=default" alt="Top Languages" />
+  </a>
 </p>
 
----
+</details>
+
+<details>
+<summary>GitHub Trophy Stats</summary>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=robot1508&theme=flat&no-frame=false&margin-w=4" alt="trophy" />
+  </a>
+</p>
+
+</details>
+
+<details>
+<summary>GitHub Readme Streak Stats</summary>
+
+<p align="left">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=robot1508&theme=default" alt="GitHub Streak" />
+  </a>
+</p>
+
+</details>
 
 
 
