@@ -15,11 +15,11 @@
 
 ## 🧠 Who Am I?
 
-- 🔭 **I’m currently working on:** Learning advanced frontend patterns and modern UI libraries  
-- 👯 **I’m looking to collaborate on:** Hackathons or building community-driven tools  
-- 🤝 **I’m looking for help with:** Code reviews and writing cleaner, more maintainable tests  
-- 🌱 **I’m currently learning:** R and Python for data science and logic  
-- 💬 **Ask me about:** How I taught myself to code or my favorite tech podcasts  
+- **I’m currently working on:** Learning advanced frontend patterns and modern UI libraries  
+- **I’m looking to collaborate on:** Hackathons or building community-driven tools  
+- **I’m looking for help with:** Code reviews and writing cleaner, more maintainable tests  
+- **I’m currently learning:** R and Python for data science and logic  
+- **Ask me about:** How I taught myself to code or my favorite tech podcasts  
 
 ---
 
